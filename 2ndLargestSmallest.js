@@ -1,4 +1,4 @@
-//Storing 3 Digit Number in Array & finding smallest & largest.
+//Storing 3 Digit Number in Array & finding smallest & largest.RG----
 
 function GetThreeDigitRandomNumber() {
     return Math.floor(Math.random() * 900 + 100);
